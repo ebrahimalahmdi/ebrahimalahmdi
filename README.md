@@ -1,5 +1,5 @@
 <div>
-    <p align="center"><a href="https://github.com/engsahaly"><img width="80%" alt="Hello, I'm Mahmoud. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
+    <p align="center"><a href="https://github.com/engsahaly"><img width="80%" alt="Hello, I'm Programmer Ibrahim Al-Ahmadi. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
@@ -30,9 +30,3 @@
         <br>
     </div>
 </div>
-
-------
-
-
-
-Last edited on: 12/07/2022
