@@ -1,32 +1,122 @@
-<div>
-    <p align="center"><a href="https://github.com/ebrahimalahmdi"><img width="80%" alt="Hello, I'm Ebrahim Al-Ahmadi. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
-    </div>
-    <br>
-    <div align="center">
-        <a href="https://bit.ly/3un0aFM"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://bit.ly/3NbatW9"><img src="https://img.shields.io/badge/Youtube-My%20Youtube%20Channel-red" alt="Youtube" /></a>
-        <a href="https://yourwebsite.com/"><img src="https://img.shields.io/badge/Website-My%20Website-blue" alt="My Website" /></a>
-        <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
-    </div>
-    <div align="left">
-        <br>
-        <p>
-            <strong>
-                Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.<br><br>
-                Well-versed in software tools including Laravel, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code. Great ability to build and optimize database design, schema and queries. Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function. Fast and eager learner for new technologies.
-            </strong>
-        </p>
-    </div>
-    <div align="center">
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ebrahimalahmdi&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrahimalahmdi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimalahmdi&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
+# Hi, 👋 I'm Ebrahim Al-Ahmadi 
+#### I’m a Backend Developer who loves building fast, reliable, and scalable web applications using PHP and Laravel. Over the years, I’ve worked on a wide range of projects, from simple websites to highly complex systems, always focusing on delivering high-quality solutions that truly make a difference. I'm passionate about solving complex problems, writing clean and efficient code, and continuously learning new technologies. Whether it’s optimizing a database, building a custom API, or adding real-time features, I’m always ready to tackle the challenge.
+---
+🛠 Currently working on building scalable **Laravel**-based backend systems.<br>
+👨‍💻 Passionate about **API Optimization**, **Real-time Systems**, and **Microservices**.<br>
+🚀 I specialize in creating robust, high-performance web applications using **PHP** and **Laravel**.<br>
+🌱 Always learning new tools, techniques, and frameworks to stay at the top of my game.<br>
+🎯 Open to exciting **open-source** collaborations and opportunities.<br>
+
+
+## 💻 Top Technologies I Work With
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-010101?logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300d4f?logo=pusher&logoColor=white)
+![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4EAF66?logo=livewire&logoColor=white)
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Hagrass&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Hagrass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+---
+
+## 💬 How to reach me :
+
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ebrahimalahmadi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:ebrahimalahmadi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/+967772053309" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/+967772053309" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+</div>
+
+---
+
+## 🌱 I’m Currently Learning:
+
+- Advanced **Laravel** techniques (Queues, Jobs, and Event Broadcasting).
+- **API Optimization** & **Performance Tuning**.
+- **Learning SOLID Principals and Desgin Patterns**.
+---
+
+## 🛠 Languages and Tools:
+### Languages:
+- **PHP** 
+- **JavaScript** (for API integrations)
+- **HTML** (for web development)
+- **CSS** (for web design)
+
+### Frameworks and Libraries:
+- **Laravel** 
+- **Livewire**
+- **Redis** (for caching)
+- **MySQL** / **MariaDB** (for databases)
+- **AJAX** (for asynchronous web requests)
+- **jQuery** (for dynamic client-side functionality)
+- **WebSockets** (for real-time communication)
+- **Pusher** (for real-time notifications)
+
+### Tools:
+- **Git** / **GitHub** (version control)
+- **Docker** (for containerized environments)
+- **Apache / Nginx** (web servers)
+- **Redis** (for caching and real-time data)
+
+---
+
+
+## 🎯 Streak Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ebrahimalahmadi&theme=radical&hide_border=true)
+
+---
+
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-010101?logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300d4f?logo=pusher&logoColor=white)
+![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4EAF66?logo=livewire&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mahmoud-Hagrass/Mahmoud-Hagrass/output/github-snake.svg" />
+</picture>
