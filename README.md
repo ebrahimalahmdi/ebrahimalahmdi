@@ -95,7 +95,7 @@
 
 ## 🎯 Streak Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ebrahimalahmadi&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ebrahimalahmdi&theme=radical&hide_border=true)
 
 ---
 
