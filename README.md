@@ -7,6 +7,7 @@
 🌱 Always learning new tools, techniques, and frameworks to stay at the top of my game.<br>
 🎯 Open to exciting **open-source** collaborations and opportunities.<br>
 
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 ## 💻 Top Technologies I Work With
 
