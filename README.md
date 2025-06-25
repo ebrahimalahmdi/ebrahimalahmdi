@@ -115,20 +115,18 @@
 ![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4EAF66?logo=livewire&logoColor=white)
 
+
+
+
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mahmoud-Hagrass/Mahmoud-Hagrass/output/github-snake.svg" />
 </picture>
+-->
 
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake.svg" />
-</picture>
 
 
 ![snake gif](https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg)
@@ -140,3 +138,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
 </picture>
+
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
+</picture>
+-->
