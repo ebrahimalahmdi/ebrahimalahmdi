@@ -133,8 +133,4 @@
 
 ![snake gif](https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/ebrahimalahmdi/ebrahimalahmdi/blob/output/github-snake-dark.svg)
-
-
-![github-snake](https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/dist/github-snake.svg)
 
