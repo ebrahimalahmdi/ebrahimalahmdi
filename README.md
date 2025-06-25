@@ -125,11 +125,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
-</picture>  
-
-
-
-ظظ//
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake.svg" />
+</picture>
