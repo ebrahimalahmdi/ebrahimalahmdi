@@ -130,6 +130,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/{{اسم-مستخدم-جيتهاب-حقيقي}}/{{اسم-مستودعك}}/output/github-snake.svg" />
 </picture>
 
+
+![snake gif](https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg)
+
 ![snake gif](https://github.com/ebrahimalahmdi/ebrahimalahmdi/blob/output/github-snake-dark.svg)
 
 
