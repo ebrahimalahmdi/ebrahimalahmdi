@@ -1,5 +1,10 @@
+<!--
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
+
+-->
+
+[<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />](https://your-website.com)
 ##  Hi, 👋 I'm Ebrahim Al-Ahmadi  
 
 
@@ -251,10 +256,112 @@
 ![Web Development](https://img.shields.io/badge/Web%20Development-%23ff9900.svg?style=for-the-badge)
 
 
+
+## ✅ 1. Core Skills – Used Constantly
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-%23007bff.svg?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## ⭐ 2. Specialized Skills – Expert Level
+
+![Laravel RESTful APIs](https://img.shields.io/badge/Laravel%20RESTful%20APIs-%23007bff.svg?style=for-the-badge&logo=api&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%23E74430.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-%23007bff.svg?style=for-the-badge&logo=api&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth-%232E8B57.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+---
+
+## 🔄 3. Secondary Skills – Some Experience
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+
+
+---
+## ✅ 1. Core Services – Offered Regularly
+
+![Web Development](https://img.shields.io/badge/Web%20Development-%23ff9900.svg?style=for-the-badge)
+![Web Design](https://img.shields.io/badge/Web%20Design-%2332B67A.svg?style=for-the-badge)
+![Websites](https://img.shields.io/badge/Websites-%23007bff.svg?style=for-the-badge)
+![Web Applications](https://img.shields.io/badge/Web%20Applications-%23f5a623.svg?style=for-the-badge)
+
+---
+
+## ⭐ 2. Specialized Services – Expert Level
+
+![Consultancy](https://img.shields.io/badge/Consultancy-%23e84d3d.svg?style=for-the-badge)
+![Hosting Services](https://img.shields.io/badge/Hosting%20Services-%2300c7b7.svg?style=for-the-badge)
+
+---
+
+## 🔄 3. Secondary Services – Some Experience
+
 </div>
 
 
+<!--
 
+
+
+## ✅ 1. المهارات الأساسية – التي أتقنها وأستخدمها باستمرار
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-%23007bff.svg?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## ⭐ 2. المهارات المتخصصة – التي أعتبر خبيرًا أو متخصصًا فيها
+
+![Laravel RESTful APIs](https://img.shields.io/badge/Laravel%20RESTful%20APIs-%23007bff.svg?style=for-the-badge&logo=api&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%23E74430.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-%23007bff.svg?style=for-the-badge&logo=api&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth-%232E8B57.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+---
+
+## 🔄 3. المهارات الثانوية – لدي بها معرفة لكن لا أستخدمها كثيرًا
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+-->
 
 <!--
 
