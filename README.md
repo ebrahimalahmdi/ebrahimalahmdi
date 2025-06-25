@@ -3,7 +3,7 @@
 
 -->
 
-https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
 
 ##  Hi, 👋 I'm Ebrahim Al-Ahmadi  
 
@@ -21,7 +21,12 @@ https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-sup
 <br /><br />
 -->
 
+<!--
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+-->
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
 
 
 <!-- Social connections -->
