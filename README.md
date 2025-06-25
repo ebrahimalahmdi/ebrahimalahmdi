@@ -128,9 +128,9 @@
 
 
 
-
+<!--
 ![snake gif](https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg)
-
+-->
 
 
 <picture>
