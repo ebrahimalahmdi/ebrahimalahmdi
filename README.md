@@ -1,6 +1,7 @@
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
- Hi, 👋 I'm Ebrahim Al-Ahmadi  
+##  Hi, 👋 I'm Ebrahim Al-Ahmadi  
+
 
 #### I’m a Backend Developer who loves building fast, reliable, and scalable web applications using PHP and Laravel. Over the years, I’ve worked on a wide range of projects, from simple websites to highly complex systems, always focusing on delivering high-quality solutions that truly make a difference. I'm passionate about solving complex problems, writing clean and efficient code, and continuously learning new technologies. Whether it’s optimizing a database, building a custom API, or adding real-time features, I’m always ready to tackle the challenge.
 
@@ -16,6 +17,19 @@
 -->
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+
+<!-- Social connections -->
+<div>
+
+## 🌐 Connect with Me 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/technologyhell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
+
+</div>
+
+
+
+
 
 ## 💻 Top Technologies I Work With
 
