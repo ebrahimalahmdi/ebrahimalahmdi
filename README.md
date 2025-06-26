@@ -4,8 +4,18 @@
 -->
 
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+<div align="center">
 
-##  Hi, 👋 I'm Ebrahim Al-Ahmadi  
+# 👋 Hi, I'm Ebrahim Alahmdi  
+**Full-Stack Developer | System Analyst | DevOps Expert**
+
+---
+
+</div>
+
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
 
 
 #### I’m a Backend Developer who loves building fast, reliable, and scalable web applications using PHP and Laravel. Over the years, I’ve worked on a wide range of projects, from simple websites to highly complex systems, always focusing on delivering high-quality solutions that truly make a difference. I'm passionate about solving complex problems, writing clean and efficient code, and continuously learning new technologies. Whether it’s optimizing a database, building a custom API, or adding real-time features, I’m always ready to tackle the challenge.
@@ -38,13 +48,8 @@
 
 
 
-
-
-
 <div align="center">
 
-# 👋 Hi, I'm Ebrahim Alahmdi  
-**Full-Stack Developer | System Analyst | DevOps Enthusiast**
 
 ---
 
@@ -170,24 +175,35 @@
 ![BPMN](https://img.shields.io/badge/BPMN-%23007dba.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjgiLz48L3N2Zz4=)
 
 ### Methodologies  
-**Agile (Scrum Stages):**  
-![Product Backlog](https://img.shields.io/badge/Product%20Backlog-%2332B67A.svg?style=for-the-badge)
-![Sprint Planning](https://img.shields.io/badge/Sprint%20Planning-%23007bff.svg?style=for-the-badge)
-![Sprint](https://img.shields.io/badge/Sprint-%23e84d3d.svg?style=for-the-badge)
-![Daily Standup](https://img.shields.io/badge/Daily%20Standup-%2300c7b7.svg?style=for-the-badge)
-![Sprint Review](https://img.shields.io/badge/Sprint%20Review-%23ff9900.svg?style=for-the-badge)
-![Sprint Retrospective](https://img.shields.io/badge/Sprint%20Retrospective-%230092cc.svg?style=for-the-badge)
+### Agile (Scrum) Stages And Waterfall Stages
 
-**Waterfall:**  
 ![Requirements](https://img.shields.io/badge/Requirements-%2332B67A.svg?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-%23007bff.svg?style=for-the-badge)
 ![Implementation](https://img.shields.io/badge/Implementation-%23e84d3d.svg?style=for-the-badge)
 ![Integration & Testing](https://img.shields.io/badge/Integration%20&%20Testing-%2300c7b7.svg?style=for-the-badge)
 ![Deployment](https://img.shields.io/badge/Deployment-%23ff9900.svg?style=for-the-badge)
 ![Maintenance](https://img.shields.io/badge/Maintenance-%230092cc.svg?style=for-the-badge)
-
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 # 📱 Mobile Development
 
 ### Back-End
