@@ -59,30 +59,19 @@
 
 ## 💬 How to reach me
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/technologyhell)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6ME9TDt)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/technologyhell)
+
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/technologyhell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/technologyhell)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:21267046)
-
-
-
-
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](#)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](#)
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge)](#)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6ME9TDt)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](#)
 
 
 
@@ -94,15 +83,13 @@
 # 💻 Technical Skills
 
 ## 🚀 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -121,15 +108,29 @@
 ## 🖥️ Back-End Technologies
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)](#)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-%23007bff.svg?style=for-the-badge&logo=api&logoColor=white)
+
+
+
+
+
+### 🧪 API & Testing
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-%23007bff.svg?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
@@ -142,6 +143,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 <!--
 
@@ -156,6 +158,7 @@
 
 ---
 
+<!--
 ## ⚙️ DevOps
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
@@ -176,7 +179,49 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
+
+-->
+
 ---
+
+
+
+## ⚙️ Development & DevOps Tools
+
+### 🧰 Editors & IDEs
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-%23007ACC.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=for-the-badge)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
+### 🧪 API & Testing
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🐙 Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+
+---
+
+
+
+<!-- 
+
+
+
 
 ## ☁️ Cloud System
 
@@ -196,6 +241,38 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+-->
+
+## ☁️ Hosting & Platforms
+
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Bluehost](https://img.shields.io/badge/Bluehost-0D96F6?style=for-the-badge&logo=bluehost&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-7DB701?style=for-the-badge&logo=godaddy&logoColor=white)
+![FreeFire](https://img.shields.io/badge/FreeFire-%23FFCC00.svg?style=for-the-badge&logo=garena&logoColor=black)
+
+---
+
+## ☁️ Cloud System
+
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=fffe)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=fff)
+![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+
+
+
 <!--
 ## 🖼️ Framework
 
@@ -277,6 +354,13 @@
 ---
 
 -->
+
+
+<!--
+
+
+
+
 ## 🖼️ Framework
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -304,6 +388,49 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 
 ---
+-->
+
+---
+
+## 🛰️ Network & Server Administration
+
+### 🌐 Network Technologies
+![Network+](https://img.shields.io/badge/Network%2B-%2300495c.svg?style=for-the-badge&logo=networkx&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-%23b50000.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%23008cff.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-%23ff0000.svg?style=for-the-badge&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-%23000000.svg?style=for-the-badge&logo=pfsense&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-%23ea7e20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231072a6.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-%23000000.svg?style=for-the-badge&logo=openssh&logoColor=white)
+
+---
+
+### 🖥️ Server Management
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078d6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Manage Windows Server](https://img.shields.io/badge/Manage%20Windows%20Server-%232b579a.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+### ☁️ Cloud Computing & Services
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%23007acc.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![IaaS | PaaS | SaaS](https://img.shields.io/badge/IaaS%20%7C%20PaaS%20%7C%20SaaS-%23f59e0b.svg?style=for-the-badge)
+![Virtualization](https://img.shields.io/badge/Virtualization-%23725cfb.svg?style=for-the-badge&logo=vmware&logoColor=white)
+
+---
+
+### 📚 Courses & Levels
+![Network 1](https://img.shields.io/badge/Network%201-%230063bd.svg?style=for-the-badge)
+![Network 2](https://img.shields.io/badge/Network%202-%230063bd.svg?style=for-the-badge)
+
+
+
+---
+<!--
+
+---
 
 
 ## 🛰️ Network Administration
@@ -319,12 +446,26 @@
 ![Windows Server](https://img.shields.io/badge/windows%20server-%230078d6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+-->
+
+<!--
 
 ## 🛠️ Tools & Others
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2300C7B7.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+-->
+
+
+---
+
+
+<!--
+
+
+
 
 ---
 
@@ -350,7 +491,25 @@
 ![Maintenance](https://img.shields.io/badge/Maintenance-%230092cc.svg?style=for-the-badge)
 ---
 
+-->
+# 📊 System Analysis, Design & Methodologies
 
+### 🧩 Analysis & Design Tools
+![UML](https://img.shields.io/badge/UML-%23E84D3D.svg?style=for-the-badge&logo=uml&logoColor=white)
+![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-%230073b7.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTggOCAwIDEgMCAwIDE2IDggOCAwIDAgMC0wLTE2em0wIDJhNiA2IDAgMSAxIDAgMTIgNiA2IDAgMCAxIDAtMTJ6bTAgM2ExIDIgMCAwIDAtMSAyIDIgMiAwIDAgMCAxIDIgMiAyIDAgMCAwIDEtMiAyIDIgMCAwIDAtMS0yIDIgMiAwIDAgMCAxLTJ6Ii8+PC9zdmc+)
+![Draw.io](https://img.shields.io/badge/Draw.io-%23FF9900.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-%23F6961E.svg?style=for-the-badge&logo=lucidchart&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-2B579A?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD-%230070b8.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTggOCAwIDEgMCAwIDE2IDggOCAwIDAgMC0wLTE2em0wIDJhNiA2IDAgMSAxIDAgMTIgNiA2IDAgMCAxIDAtMTJ6bTAgM2ExIDIgMCAwIDAtMSAyIDIgMiAwIDAgMCAxIDIgMiAyIDAgMCAwIDEtMiAyIDIgMCAwIDAtMS0yIDIgMiAwIDAgMCAxLTJ6Ii8+PC9zdmc+)
+![BPMN](https://img.shields.io/badge/BPMN-%23007dba.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjgiLz48L3N2Zz4=)
+
+### 📌 Agile & Waterfall Methodologies
+![Requirements](https://img.shields.io/badge/Requirements-%2332B67A.svg?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-%23007bff.svg?style=for-the-badge)
+![Implementation](https://img.shields.io/badge/Implementation-%23e84d3d.svg?style=for-the-badge)
+![Integration & Testing](https://img.shields.io/badge/Integration%20&%20Testing-%2300c7b7.svg?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-%23ff9900.svg?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/Maintenance-%230092cc.svg?style=for-the-badge)
 
 
 
@@ -410,6 +569,14 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=for-the-badge)
 
+
+---
+<!--
+
+
+
+
+
 ---
 
 ## 🤝 Soft Skills
@@ -423,6 +590,22 @@
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-%230092cc.svg?style=for-the-badge)
 
 ---
+-->
+
+
+
+## 🤝 Soft Skills
+
+### 🌟 Core Skills
+![Communication](https://img.shields.io/badge/Communication-%2332B67A.svg?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-%23007bff.svg?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23f5a623.svg?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-%230092cc.svg?style=for-the-badge)
+
+### ⏱️ Personal Effectiveness
+![Time Management](https://img.shields.io/badge/Time%20Management-%23e84d3d.svg?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-%2300c7b7.svg?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-%23ff9900.svg?style=for-the-badge)
 
 <div align="center">
   
