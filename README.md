@@ -11,7 +11,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ebrahim Alahmdi  
-**Full-Stack Developer | System Analyst | DevOps Expert**
+**Full-Stack Developer | Software Engineer| System Analyst **
 
 ---
 
