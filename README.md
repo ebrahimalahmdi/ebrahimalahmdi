@@ -52,6 +52,12 @@
 
 
 
+
+
+
+<!--
+
+
 <div align="center">
 
 
@@ -73,6 +79,27 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6ME9TDt)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](#)
 
+
+
+
+</div>
+
+-->
+
+
+
+<div align="center">
+
+
+---
+
+## 💬 How to reach me
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/ebrahim-alahmdi-0583a0304?utm_source=share&utm_campaign=share_via&am)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+967772053309)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/1A2VH3VeuH)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ebra.dev?igsh=MTg5MHplaDc4NXNvbg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Eng_Ebrahim_Alahmdi)
 
 
 
